@@ -1,0 +1,3 @@
+[submodule ".config/nvim/lua/soupvim"]
+	path = .config/nvim/lua/soupvim
+	url = https://github.com/pl4gue/soupvim
