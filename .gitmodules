@@ -1,3 +1,6 @@
 [submodule ".config/nvim/lua/soupvim"]
 	path = .config/nvim/lua/soupvim
 	url = https://github.com/pl4gue/soupvim
+[submodule "documents/soupsidian"]
+	path = documents/soupsidian
+	url = https://github.com/pl4gue/soupsidian
